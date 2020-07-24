@@ -2,7 +2,7 @@
 
 pytorch implement
 
-the original data is from https://github.com/AshwinRJ/Federated-Learning-PyTorch（see for introduction and parameters setting）
+the original code is from https://github.com/AshwinRJ/Federated-Learning-PyTorch（see for introduction and parameters setting）
 
 ## our revision includes：
 options:
