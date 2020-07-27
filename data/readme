@@ -1,3 +1,5 @@
- here is the data.
-  'mnist', 'fmnist', 'cifar'
-  iid or non iid
+ Now is an empty file.
+ 
+ Used to save data.
+  data:  'mnist', 'fmnist', 'cifar'
+  data distributation: iid or non iid
