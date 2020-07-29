@@ -5,10 +5,11 @@ pytorch implement
 the original code is from https://github.com/AshwinRJ/Federated-Learning-PyTorch (see for introduction and parameters setting）
 
 ## how to use it(still in trouble)
+0.open your notebook, like jupter/google colab
 1.download/git clone the repo in local computer or google drive
-2.open demo.ipynb in google, reset the path  
-3.change the 'edit/notebook setting' to GPU
-4.run command '%run federated_main'
+2.change the 'edit/notebook setting' to GPU  
+3.open demo.ipynb in google, reset the path
+4.run command '%run federated_main.ipynb'
 5.upload the output in save folder 
 
 ## our revision includes：
